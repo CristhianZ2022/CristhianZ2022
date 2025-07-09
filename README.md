@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Christian there 👋
 
 - 🔭 I’m currently working on becoming a full-stack developer.
 - 🌱 I’m currently learning React, Node & Git.
